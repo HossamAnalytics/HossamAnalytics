@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello! I'm Hossam Kamal</h1>
-  <p>Junior Data Analyst focused on transforming complex data into clear, measurable business insights. I leverage SQL, Power BI, and Advanced Excel to drive informed decision-making.</p>
+  <p>Data Analyst Expert focused on transforming complex data into clear, **actionable business insights**. I leverage **Power BI (DAX & Power Query)** and **Advanced Excel** to drive informed decision-making.</p>
 </div>
 
 ---

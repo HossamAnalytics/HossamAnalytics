@@ -31,11 +31,8 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HossamAnalytics&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamAnalytics&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="./github-stats/github-stats.png" alt="GitHub Stats" />
+  <img src="./github-stats/github-langs.png" alt="Top Languages" />
 </p>
 
 ---

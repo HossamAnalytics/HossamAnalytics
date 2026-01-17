@@ -21,9 +21,9 @@
 
 ## 💼 Featured Projects
 
-* **📊 [Sales Performance Dashboard]** - A comprehensive **Power BI** dashboard analyzing sales data, utilizing DAX for custom calculations and Power Query for data transformation.
+* **📊 [Sales Activity & Profitability Analysis](https://github.com/HossamAnalytics/Sales-Activity-Profitability-Analysis)** - A comprehensive **Power BI** dashboard analyzing sales data, utilizing DAX for custom calculations and Power Query for data transformation.
 * **🔍 [Advanced SQL Queries Repository]** - Contains complex SQL scripts (**CTEs, Window Functions**) used for efficient data cleaning and manipulation.
-* **📈 [Financial Analysis & Forecasting]** - A project showcasing financial modeling and visualization using **Advanced Excel & Tableau**.
+* **📈 [Advanced Excel Analysis Portfolio](https://github.com/HossamAnalytics/Advanced_Excel_Analysis_Portfolio)** - A project showcasing financial modeling, reporting, and visualization using Power Query, Pivot Tables, and advanced formulas.
 * **🐍 [Data Cleaning with Python]** - Applying basic **Python (Pandas)** techniques to automate data cleaning and preparation tasks.
 
 ---
@@ -32,10 +32,9 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HossamAnalytics&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamAnalytics&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
-
----
 
 ---
 

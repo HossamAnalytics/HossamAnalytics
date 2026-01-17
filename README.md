@@ -1,7 +1,6 @@
 <div align="center">
     <h1>👋 Hello! I'm Hossam Kamal</h1>
-    <p><strong>Data Analyst</strong> specialized in transforming complex data into <strong>clear and actionable business insights</strong>.<br>
-    I leverage <strong>SQL, Power BI, Tableau, and Python</strong> to support data-driven decision making.</p>
+    <p><strong>Data Analyst</strong> specialized in transforming complex data into <strong>clear and actionable business insights</strong>. <br> I leverage <strong>SQL, Power BI, Tableau, and Python</strong> to support data-driven decision making.</p>
 </div>
 
 ---
@@ -23,13 +22,25 @@
 ## 💼 Featured Projects
 
 * **📊 [Sales Activity & Profitability Analysis](https://github.com/HossamAnalytics/Sales-Activity-Profitability-Analysis)** - A comprehensive **Power BI** dashboard analyzing sales data, utilizing DAX for custom calculations and Power Query for data transformation.
-* **🔍 [Advanced SQL Queries Repository](https://github.com/HossamAnalytics)** - Contains complex SQL scripts (**CTEs, Window Functions**) used for efficient data cleaning and manipulation.
+* **🔍 [Advanced SQL Queries Repository]** - Contains complex SQL scripts (**CTEs, Window Functions**) used for efficient data cleaning and manipulation.
 * **📈 [Advanced Excel Analysis Portfolio](https://github.com/HossamAnalytics/Advanced_Excel_Analysis_Portfolio)** - A project showcasing financial modeling, reporting, and visualization using Power Query, Pivot Tables, and advanced formulas.
-* **🐍 [Data Cleaning with Python](https://github.com/HossamAnalytics)** - Applying basic **Python (Pandas)** techniques to automate data cleaning and preparation tasks.
+* **🐍 [Data Cleaning with Python]** - Applying basic **Python (Pandas)** techniques to automate data cleaning and preparation tasks.
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://githu
+  <img src="./github-stats/github-stats.png" alt="GitHub Stats" />
+  <img src="./github-stats/github-langs.png" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+    <a href="https://linkedin.com/in/hossamkamal7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://wa.me/201032638865"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="mailto:hossamkamal7822@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
